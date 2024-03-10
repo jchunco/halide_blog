@@ -1,7 +1,8 @@
 ---
 draft: false
 title: Lily
-description: ''
+description: |
+  Romping in the fields. 
 images:
   - src: /assets/uploads/lilyinthegras.jpg
   - src: /assets/uploads/lilyinthefield.jpg
